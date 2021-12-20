@@ -5,7 +5,11 @@
   </p>
 
   <p>
-    <strong>Context:</strong>
+    Posted <%= time_tag post.created_at, "data-local": "time-ago" %>
+  </p>
+
+  <p>
+    <strong>Content:</strong>
     <%= post.content %>
   </p>
 
