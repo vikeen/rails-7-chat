@@ -5,20 +5,25 @@ application up and running.
 
 Things you may want to cover:
 
-* Ruby version
+## Ruby version
+v2.7.5
 
-* System dependencies
+## System dependencies
 
-* Configuration
+* Image processing `brew install graphicsmagick vips`
 
-* Database creation
+## Configuration
 
-* Database initialization
+## Database creation
 
-* How to run the test suite
+## Database initialization
 
-* Services (job queues, cache servers, search engines, etc.)
+## How to run the test suite
 
-* Deployment instructions
+`rails test`
+
+## Services (job queues, cache servers, search engines, etc.)
+
+## Deployment instructions
 
 * ...
