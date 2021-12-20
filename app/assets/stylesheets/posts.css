@@ -1,0 +1,13 @@
+.post {
+    padding: 20px;
+    border-radius: 5px;
+    border: 1px solid #dadada;
+}
+
+.post__title {
+    margin-top: 0;
+}
+
+.post__links {
+    margin-bottom: 50px;
+}
