@@ -2,8 +2,8 @@
 
 one:
   post: one
-  content: MyText
+  content: comment 1 content
 
 two:
   post: two
-  content: MyText
+  content: comment 2 content
